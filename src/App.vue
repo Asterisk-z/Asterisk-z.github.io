@@ -5,7 +5,7 @@ import TheWelcome from './components/TheWelcome.vue'
 
 <template>
   <header>
-    <img alt="Olang Daniel Image" class="logo" src="./assets/olang_daniel.png" width="200" height="155" />
+    <!-- <img alt="Olang Daniel Image" class="logo" src="./assets/olang_daniel.png" width="200" height="155" /> -->
 
     <div class="wrapper">
       <HelloWorld msg="Olang Daniel" />
